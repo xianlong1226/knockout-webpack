@@ -1,0 +1,672 @@
+{
+	"currentTime": 1479174260666,
+	"apiErrorMessage": "",
+	"data": [
+		{
+			"categoryId": 393,
+			"title": "房地产",
+			"conditionTags": [{
+				"tagId": 999,
+				"name": "3年以上",
+				"color": null,
+				"personCount": 5356
+			}],
+			"tags": [],
+			"children": [
+				{
+					"categoryId": 620,
+					"title": "工作经验",
+					"conditionTags": [],
+					"tags": [
+						{
+							"tagId": 999,
+							"name": "3年以上",
+							"color": null,
+							"personCount": 5356
+						},
+						{
+							"tagId": 997,
+							"name": "4年以上",
+							"color": null,
+							"personCount": 4295
+						},
+						{
+							"tagId": 995,
+							"name": "5年以上",
+							"color": null,
+							"personCount": 3521
+						},
+						{
+							"tagId": 993,
+							"name": "8年以上",
+							"color": null,
+							"personCount": 1847
+						},
+						{
+							"tagId": 989,
+							"name": "10年以上",
+							"color": null,
+							"personCount": 1248
+						},
+						{
+							"tagId": 1002,
+							"name": "15年以上",
+							"color": null,
+							"personCount": 398
+						}
+					],
+					"children": []
+				},
+				{
+					"categoryId": 628,
+					"title": "教育背景",
+					"conditionTags": [],
+					"tags": [
+						{
+							"tagId": 992,
+							"name": "一本",
+							"color": null,
+							"personCount": 2933
+						},
+						{
+							"tagId": 990,
+							"name": "211",
+							"color": null,
+							"personCount": 1664
+						},
+						{
+							"tagId": 1001,
+							"name": "985",
+							"color": null,
+							"personCount": 902
+						},
+						{
+							"tagId": 1003,
+							"name": "985/211",
+							"color": null,
+							"personCount": 902
+						},
+						{
+							"tagId": 1078,
+							"name": "海外知名大学",
+							"color": null,
+							"personCount": 29
+						},
+						{
+							"tagId": 1131,
+							"name": "QS全球TOP10",
+							"color": null,
+							"personCount": 4
+						}
+					],
+					"children": []
+				},
+				{
+					"categoryId": 709,
+					"title": "职级资历",
+					"conditionTags": [],
+					"tags": [
+						{
+							"tagId": 1018,
+							"name": "初级",
+							"color": null,
+							"personCount": 2013
+						},
+						{
+							"tagId": 1025,
+							"name": "中级",
+							"color": null,
+							"personCount": 861
+						},
+						{
+							"tagId": 1013,
+							"name": "高级",
+							"color": null,
+							"personCount": 400
+						},
+						{
+							"tagId": 1051,
+							"name": "资深",
+							"color": null,
+							"personCount": 400
+						}
+					],
+					"children": []
+				}
+			]
+		},
+		{
+			"categoryId": 394,
+			"title": "消费品",
+			"conditionTags": [],
+			"tags": [],
+			"children": [
+				{
+					"categoryId": 622,
+					"title": "工作经验",
+					"conditionTags": [],
+					"tags": [
+						{
+							"tagId": 999,
+							"name": "3年以上",
+							"color": null,
+							"personCount": 5356
+						},
+						{
+							"tagId": 997,
+							"name": "4年以上",
+							"color": null,
+							"personCount": 4295
+						},
+						{
+							"tagId": 995,
+							"name": "5年以上",
+							"color": null,
+							"personCount": 3521
+						},
+						{
+							"tagId": 993,
+							"name": "8年以上",
+							"color": null,
+							"personCount": 1847
+						},
+						{
+							"tagId": 989,
+							"name": "10年以上",
+							"color": null,
+							"personCount": 1248
+						},
+						{
+							"tagId": 1002,
+							"name": "15年以上",
+							"color": null,
+							"personCount": 398
+						}
+					],
+					"children": []
+				},
+				{
+					"categoryId": 630,
+					"title": "教育背景",
+					"conditionTags": [],
+					"tags": [
+						{
+							"tagId": 992,
+							"name": "一本",
+							"color": null,
+							"personCount": 2933
+						},
+						{
+							"tagId": 990,
+							"name": "211",
+							"color": null,
+							"personCount": 1664
+						},
+						{
+							"tagId": 1001,
+							"name": "985",
+							"color": null,
+							"personCount": 902
+						},
+						{
+							"tagId": 1003,
+							"name": "985/211",
+							"color": null,
+							"personCount": 902
+						},
+						{
+							"tagId": 1078,
+							"name": "海外知名大学",
+							"color": null,
+							"personCount": 29
+						},
+						{
+							"tagId": 1131,
+							"name": "QS全球TOP10",
+							"color": null,
+							"personCount": 4
+						}
+					],
+					"children": []
+				},
+				{
+					"categoryId": 711,
+					"title": "职级资历",
+					"conditionTags": [],
+					"tags": [
+						{
+							"tagId": 1018,
+							"name": "初级",
+							"color": null,
+							"personCount": 2013
+						},
+						{
+							"tagId": 1025,
+							"name": "中级",
+							"color": null,
+							"personCount": 861
+						},
+						{
+							"tagId": 1013,
+							"name": "高级",
+							"color": null,
+							"personCount": 400
+						},
+						{
+							"tagId": 1051,
+							"name": "资深",
+							"color": null,
+							"personCount": 400
+						}
+					],
+					"children": []
+				}
+			]
+		},
+		{
+			"categoryId": 395,
+			"title": "医药",
+			"conditionTags": [],
+			"tags": [],
+			"children": [
+				{
+					"categoryId": 624,
+					"title": "工作经验",
+					"conditionTags": [],
+					"tags": [
+						{
+							"tagId": 999,
+							"name": "3年以上",
+							"color": null,
+							"personCount": 5356
+						},
+						{
+							"tagId": 997,
+							"name": "4年以上",
+							"color": null,
+							"personCount": 4295
+						},
+						{
+							"tagId": 995,
+							"name": "5年以上",
+							"color": null,
+							"personCount": 3521
+						},
+						{
+							"tagId": 993,
+							"name": "8年以上",
+							"color": null,
+							"personCount": 1847
+						},
+						{
+							"tagId": 989,
+							"name": "10年以上",
+							"color": null,
+							"personCount": 1248
+						},
+						{
+							"tagId": 1002,
+							"name": "15年以上",
+							"color": null,
+							"personCount": 398
+						}
+					],
+					"children": []
+				},
+				{
+					"categoryId": 632,
+					"title": "教育背景",
+					"conditionTags": [],
+					"tags": [
+						{
+							"tagId": 992,
+							"name": "一本",
+							"color": null,
+							"personCount": 2933
+						},
+						{
+							"tagId": 990,
+							"name": "211",
+							"color": null,
+							"personCount": 1664
+						},
+						{
+							"tagId": 1001,
+							"name": "985",
+							"color": null,
+							"personCount": 902
+						},
+						{
+							"tagId": 1003,
+							"name": "985/211",
+							"color": null,
+							"personCount": 902
+						},
+						{
+							"tagId": 1078,
+							"name": "海外知名大学",
+							"color": null,
+							"personCount": 29
+						},
+						{
+							"tagId": 1131,
+							"name": "QS全球TOP10",
+							"color": null,
+							"personCount": 4
+						}
+					],
+					"children": []
+				},
+				{
+					"categoryId": 713,
+					"title": "职级资历",
+					"conditionTags": [],
+					"tags": [
+						{
+							"tagId": 1018,
+							"name": "初级",
+							"color": null,
+							"personCount": 2013
+						},
+						{
+							"tagId": 1025,
+							"name": "中级",
+							"color": null,
+							"personCount": 861
+						},
+						{
+							"tagId": 1013,
+							"name": "高级",
+							"color": null,
+							"personCount": 400
+						},
+						{
+							"tagId": 1051,
+							"name": "资深",
+							"color": null,
+							"personCount": 400
+						}
+					],
+					"children": []
+				}
+			]
+		},
+		{
+			"categoryId": 396,
+			"title": "IT互联网",
+			"conditionTags": [],
+			"tags": [],
+			"children": [
+				{
+					"categoryId": 398,
+					"title": "工作经验",
+					"conditionTags": [],
+					"tags": [
+						{
+							"tagId": 999,
+							"name": "3年以上",
+							"color": null,
+							"personCount": 5356
+						},
+						{
+							"tagId": 997,
+							"name": "4年以上",
+							"color": null,
+							"personCount": 4295
+						},
+						{
+							"tagId": 995,
+							"name": "5年以上",
+							"color": null,
+							"personCount": 3521
+						},
+						{
+							"tagId": 993,
+							"name": "8年以上",
+							"color": null,
+							"personCount": 1847
+						},
+						{
+							"tagId": 989,
+							"name": "10年以上",
+							"color": null,
+							"personCount": 1248
+						},
+						{
+							"tagId": 1002,
+							"name": "15年以上",
+							"color": null,
+							"personCount": 398
+						}
+					],
+					"children": []
+				},
+				{
+					"categoryId": 416,
+					"title": "教育背景",
+					"conditionTags": [],
+					"tags": [
+						{
+							"tagId": 992,
+							"name": "一本",
+							"color": null,
+							"personCount": 2933
+						},
+						{
+							"tagId": 990,
+							"name": "211",
+							"color": null,
+							"personCount": 1664
+						},
+						{
+							"tagId": 1001,
+							"name": "985",
+							"color": null,
+							"personCount": 902
+						},
+						{
+							"tagId": 1003,
+							"name": "985/211",
+							"color": null,
+							"personCount": 902
+						},
+						{
+							"tagId": 1078,
+							"name": "海外知名大学",
+							"color": null,
+							"personCount": 29
+						},
+						{
+							"tagId": 1064,
+							"name": "计算机类TOP10",
+							"color": null,
+							"personCount": 17
+						},
+						{
+							"tagId": 1118,
+							"name": "北邮北航理工科",
+							"color": null,
+							"personCount": 14
+						},
+						{
+							"tagId": 1115,
+							"name": "西安电子",
+							"color": null,
+							"personCount": 13
+						},
+						{
+							"tagId": 1131,
+							"name": "QS全球TOP10",
+							"color": null,
+							"personCount": 4
+						},
+						{
+							"tagId": 1100,
+							"name": "统计学类TOP10",
+							"color": null,
+							"personCount": 2
+						}
+					],
+					"children": []
+				},
+				{
+					"categoryId": 428,
+					"title": "就职公司",
+					"conditionTags": [],
+					"tags": [
+						{
+							"tagId": 1070,
+							"name": "华为",
+							"color": null,
+							"personCount": 6
+						},
+						{
+							"tagId": 1057,
+							"name": "BAT",
+							"color": null,
+							"personCount": 5
+						},
+						{
+							"tagId": 1122,
+							"name": "最佳雇主",
+							"color": null,
+							"personCount": 5
+						},
+						{
+							"tagId": 1145,
+							"name": "百度",
+							"color": null,
+							"personCount": 4
+						},
+						{
+							"tagId": 1117,
+							"name": "京东",
+							"color": null,
+							"personCount": 3
+						},
+						{
+							"tagId": 1058,
+							"name": "腾迅",
+							"color": null,
+							"personCount": 1
+						},
+						{
+							"tagId": 1063,
+							"name": "IBM",
+							"color": null,
+							"personCount": 1
+						},
+						{
+							"tagId": 1138,
+							"name": "乐视",
+							"color": null,
+							"personCount": 1
+						}
+					],
+					"children": []
+				},
+				{
+					"categoryId": 434,
+					"title": "职级资历",
+					"conditionTags": [],
+					"tags": [
+						{
+							"tagId": 1018,
+							"name": "初级",
+							"color": null,
+							"personCount": 2013
+						},
+						{
+							"tagId": 1025,
+							"name": "中级",
+							"color": null,
+							"personCount": 861
+						},
+						{
+							"tagId": 1013,
+							"name": "高级",
+							"color": null,
+							"personCount": 400
+						},
+						{
+							"tagId": 1051,
+							"name": "资深",
+							"color": null,
+							"personCount": 400
+						}
+					],
+					"children": []
+				},
+				{
+					"categoryId": 479,
+					"title": "职岗",
+					"conditionTags": [],
+					"tags": [
+						{
+							"tagId": 986,
+							"name": "销售",
+							"color": null,
+							"personCount": 751
+						},
+						{
+							"tagId": 1007,
+							"name": "财务",
+							"color": null,
+							"personCount": 468
+						},
+						{
+							"tagId": 1027,
+							"name": "HR",
+							"color": null,
+							"personCount": 254
+						},
+						{
+							"tagId": 1010,
+							"name": "行政",
+							"color": null,
+							"personCount": 221
+						},
+						{
+							"tagId": 1012,
+							"name": "市场推广",
+							"color": null,
+							"personCount": 171
+						},
+						{
+							"tagId": 1024,
+							"name": "Hadoop",
+							"color": null,
+							"personCount": 168
+						},
+						{
+							"tagId": 1023,
+							"name": "Java",
+							"color": null,
+							"personCount": 168
+						},
+						{
+							"tagId": 1046,
+							"name": "软件工程师",
+							"color": null,
+							"personCount": 157
+						},
+						{
+							"tagId": 1038,
+							"name": "手机开发",
+							"color": null,
+							"personCount": 155
+						},
+						{
+							"tagId": 1068,
+							"name": "前端开发",
+							"color": null,
+							"personCount": 138
+						}
+					],
+					"children": []
+				}
+			]
+		}
+	],
+	"code": 1
+}

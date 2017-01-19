@@ -1,0 +1,125 @@
+{
+	"currentTime": 1479174260666,
+	"apiErrorMessage": "",
+	"data": [
+		{
+			"categoryId": 393,
+			"title": "性别性别性别性别性别",
+			"conditionTags": [],
+			"tags": [	{
+					"tagId": 999,
+					"name": "3年以上",
+					"color": null,
+					"personCount": 5356
+				},
+				{
+					"tagId": 997,
+					"name": "4年以上",
+					"color": null,
+					"personCount": 4295
+				},
+				{
+					"tagId": 995,
+					"name": "5年以上",
+					"color": null,
+					"personCount": 3521
+				},
+				{
+					"tagId": 993,
+					"name": "8年以上",
+					"color": null,
+					"personCount": 1847
+				},
+				{
+					"tagId": 989,
+					"name": "10年以上",
+					"color": null,
+					"personCount": 1248
+				},
+				{
+					"tagId": 1002,
+					"name": "15年以上",
+					"color": null,
+					"personCount": 398
+				}, {
+						"tagId": 999,
+						"name": "3年以上",
+						"color": null,
+						"personCount": 5356
+					},
+					{
+						"tagId": 997,
+						"name": "4年以上",
+						"color": null,
+						"personCount": 4295
+					},
+					{
+						"tagId": 995,
+						"name": "5年以上",
+						"color": null,
+						"personCount": 3521
+					},
+					{
+						"tagId": 993,
+						"name": "8年以上",
+						"color": null,
+						"personCount": 1847
+					},
+					{
+						"tagId": 989,
+						"name": "10年以上",
+						"color": null,
+						"personCount": 1248
+					},
+					{
+						"tagId": 1002,
+						"name": "15年以上",
+						"color": null,
+						"personCount": 398
+					}
+			]
+		},
+		{
+			"categoryId": 394,
+			"title": "年龄",
+			"conditionTags": [],
+			"tags": [{
+				"tagId": 999,
+				"name": "3年以上",
+				"color": null,
+				"personCount": 5356
+			},
+			{
+				"tagId": 997,
+				"name": "4年以上",
+				"color": null,
+				"personCount": 4295
+			},
+			{
+				"tagId": 995,
+				"name": "5年以上",
+				"color": null,
+				"personCount": 3521
+			},
+			{
+				"tagId": 993,
+				"name": "8年以上",
+				"color": null,
+				"personCount": 1847
+			},
+			{
+				"tagId": 989,
+				"name": "10年以上",
+				"color": null,
+				"personCount": 1248
+			},
+			{
+				"tagId": 1002,
+				"name": "15年以上",
+				"color": null,
+				"personCount": 398
+			}]
+		}
+	],
+	"code": 1
+}

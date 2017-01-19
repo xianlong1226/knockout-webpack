@@ -1,0 +1,26 @@
+.jynotify{width:330px;min-height: 88px;border: solid 1px #ebebeb;box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.04), 0 2px 4px 0 rgba(0, 0, 0, 0.12);overflow: hidden;position:fixed;top:0;right:0;background: #fff;z-index: 1002;}
+.jynotify>div{float: left;}
+.jynotify .jynotify_flag{margin:24px 14px 0 24px;height:40px;width:40px;top:0;left:0;}
+.jynotify .jynotify_flag.success{background:url('./images/success.png') no-repeat center center;}
+.jynotify .jynotify_flag.alert{background:url('./images/alert.png') no-repeat center center;}
+.jynotify .jynotify_flag.error{background:url('./images/error.png') no-repeat center center;}
+.jynotify .jynotify_flag.info{background:url('./images/info.png') no-repeat center center;}
+
+.jynotify .jynotify_content{width:200px;margin:24px 20px 0 0;}
+.jynotify .jynotify_content .title{font-size:16px;color: #262626;margin:0;padding:0;}
+.jynotify .jynotify_content .content{font-size:14px;color: #999999;margin:10px 0 0 0;padding:0 0 24px 0;line-height: 20px;}
+
+.jynotify .jynotify_operate{height:16px;width:16px;margin:20px 0 0 0;background: url('./images/close.png') no-repeat center center;cursor: pointer;}
+
+.jyconfirmmask{position: absolute;top:0;left: 0;height: 100%;width: 100%;background: #444655;opacity: 0.6;filter:alpha(opacity=60);z-index: 1000;}
+.jyconfirm{position: fixed;width:400px;min-height: 160px;box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.04), 0 2px 4px 0 rgba(0, 0, 0, 0.12);border: solid 1px #d2d2d2;background: #fff;z-index: 1001;top:50%;left:50%;}
+.jyconfirm .wrap{margin:16px 24px;}
+.jyconfirm .wrap .title {overflow: hidden;}
+.jyconfirm .wrap .title label{font-size: 16px;color:#333;}
+.jyconfirm .wrap .title i{float:right;height:16px;width:16px;background: url('./images/close.png') no-repeat center center;cursor: pointer;}
+
+.jyconfirm .wrap .content{margin:16px 0 0 0;font-size: 14px;color: #666;}
+.jyconfirm .wrap .operate{margin: 36px 0 0 0;text-align: right;}
+.jyconfirm .wrap .operate .btn{padding:0 22px;-webkit-appearance:none;cursor: pointer;line-height: 36px;height: 36px;}
+.jyconfirm .wrap .operate .cancel{border-radius: 4px;border: solid 1px #d2d2d2;background: #fff;color: #999;}
+.jyconfirm .wrap .operate .sure {border-radius: 4px;background-color: #34c7ef;color: #fff;border: 1px solid #34c7ef;margin-left:10px;}
