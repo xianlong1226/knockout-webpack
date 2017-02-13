@@ -5,7 +5,7 @@ require('components/footer');
 var pinyin = require('vendors/pinyin.js');
 
 require('./style.scss');
-require('./page.html');
+//require('./page.html');
 
 var viewModel = ko.mapping.fromJS(require('./data.json'));
 

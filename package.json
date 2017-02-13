@@ -37,6 +37,7 @@
     "gulp-command-task": "^0.1.1",
     "gulp-util": "^3.0.7",
     "html-loader": "^0.4.3",
+    "html-webpack-plugin": "^2.28.0",
     "imports-loader": "^0.6.5",
     "install": "^0.8.4",
     "iscroll": "^5.2.0",
