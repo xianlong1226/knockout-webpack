@@ -58,7 +58,7 @@ var config = {
                 loader: 'json'
             }, {
                 test: /\.s?css$/,
-                loader: extractCss.extract(['css?{"discardComments":{"removeAll":true}}!sass'])
+                loader: extractCss.extract('style', ['css?{"discardComments":{"removeAll":true}}!sass'])
             },
             {
                 test: /\.html$/,
